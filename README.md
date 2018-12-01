@@ -3,7 +3,7 @@ This is used as a patch to show donor list on front end. Dependency of this plug
 === Give - Donation Plugin and Fundraising Platform ===
 Contributors: Ghanshyam Sharma
 Tags: donation, donations, donation plugin, wordpress donation plugin, givewp, give, wp donation, ecommerce, e-commerce, fundraising, fundraiser, crowdfunding, wordpress donations, commerce, wordpress ecommerce, giving, charity, donate, gifts, non-profit, paypal, stripe,
-churches, nonprofit, paypal donations, paypal donate, stripe donations, stripe donate, authorize.net, authorize.net donations, donor frontend list
+churches, nonprofit, paypal donations, paypal donate, stripe donations, stripe donate, authorize.net, authorize.net donations, donor frontend list, Wordpress plugin
 Requires at least: 4.8
 Tested up to: 4.9
 Requires PHP: 5.6
