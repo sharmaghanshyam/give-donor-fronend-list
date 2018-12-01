@@ -17,6 +17,6 @@ Accept donations and begin fundraising with Give, the highest rated WordPress do
 
 This is used as a patch to show donor list on front end. Dependency of this plugin is on the main plugin of give for donation and fundraising. Credit of this plugin goes to the actual owner givewp plugin we have just created a patch for donor list on frontend
 
-Credit - https://givewp.com/
+
 
 Shortcode - [donors_flist give_forms=GIVEFORMID]
